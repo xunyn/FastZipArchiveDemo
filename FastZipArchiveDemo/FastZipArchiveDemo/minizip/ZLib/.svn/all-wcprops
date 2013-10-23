@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/inffast.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/inffixed.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/deflate.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/deflate.h
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/inftrees.c
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/trees.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/inftrees.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/zconf.h
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/inflate.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/inffast.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/compress.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/HSBC_Mobile_UI1.5_Day3/!svn/ver/2/trunk/HSBCHybrid/Classes/Global/ZipArchive/ZLib/infback.c
+END
